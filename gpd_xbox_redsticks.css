@@ -29,7 +29,7 @@
 .xbox .trigger {
     width: 88px;
     height: 121px;
-    background: url(https://gamepadviewer.com/xbox-assets/trigger.svgz);
+    background: url(https://raw.githubusercontent.com/marat569/gamepadviewer/main/gpd_xbox_redtrigger.svgz);
     opacity: 0;
 }
 
@@ -46,7 +46,7 @@
 .xbox .bumper {
     width: 170px;
     height: 61px;
-    background: url(https://gamepadviewer.com/xbox-assets/bumper.svgz);
+    background: url(https://raw.githubusercontent.com/marat569/gamepadviewer/main/gpd_xbox_redbumper.svgz);
     opacity: 0;
 }
 
