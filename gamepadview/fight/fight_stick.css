@@ -147,15 +147,15 @@
 .fight-stick .button {
     width: 123px;
     height: 123px;
-
-}
-
-.fight-stick .button.pressed {
     background: #333333;
     border-radius: 100%;
     opacity: 1;
     display: block;
     position: absolute;
+
+}
+
+.fight-stick .button.pressed {
     transform: translateY(5px);
     -webkit-filter: invert(1);
 }
