@@ -147,7 +147,7 @@
 .fight-stick .button {
     width: 123px;
     height: 123px;
-    background: #333333;
+   /* background: #333333;*/
     border-radius: 100%;
     opacity: 1;
     display: block;
